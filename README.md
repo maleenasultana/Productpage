@@ -62,6 +62,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+##notes
+I chose a product which can be used in design easily, there are many frameworks I worked on like Chakra-Ui, Material-Ui, Tailwind CSS etc. but I used CSS and Bootstrap here as it is very challenging to make responsive with this styling tools. I designed it in Figma, and it is very easy too. Again, I can use plugins to convert it in react, but I chose to do it manually as it is much more readable. I pushed my code on GitHub (link attached) and also attached the project deployed link. 
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
