@@ -1,0 +1,42 @@
+@media(max-width: 1433px){
+  #Hero .tv img{
+    width: 1433px;
+    height: 941px;
+  }
+
+}
+
+@media(max-width : 1040px){
+  #Hero .tv img {
+    width: 651px;
+  height: 524px;
+  }
+  #Hero .typo{
+    width: 509px;
+height: 87px;
+  }
+  #Hero .btn{
+    flex-direction: row;
+  }
+  #Hero .row{
+    flex-direction: column;
+  }
+  #Hero .buton{
+    flex-direction: row;
+  }
+}
+@media(max-width: 844px){
+ #Hero .tv img{ width: 390px;
+height: 844px;}
+
+
+#Hero .btn {
+  flex-direction: column;
+}
+#Hero .row{
+  flex-direction: column;
+}
+#Footer .data{
+  display: flex;
+}
+}

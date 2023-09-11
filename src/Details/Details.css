@@ -1,0 +1,21 @@
+.query{
+    font-size: large;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.specs{
+    text-decoration: underline;
+}
+.about1{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 40px;
+}
+.para{
+    font-weight: 500;
+    margin-top: 40px;
+}
+.About{
+    margin-left:60px ;
+}

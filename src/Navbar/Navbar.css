@@ -1,0 +1,30 @@
+.typography{
+    color: #4A1212;
+font-family: Italianno;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-link{
+    color: #000;
+font-family: Jockey One;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-link {
+display: flex;
+justify-content:center ;
+text-align: center;
+}
+.nav-link1{
+    color: #000;
+font-family: Jockey One;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}

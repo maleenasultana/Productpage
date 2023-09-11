@@ -1,0 +1,82 @@
+.layout{
+    display: flex;
+}
+.typo{
+    color: #000;
+   
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+display: flex;
+justify-content:left;
+margin-left: 120px;
+margin-top: 117px;
+}
+.stars{
+    margin-left: 80%;
+}
+.payment{
+    width: 122px;
+    height: 54px;
+}
+.cart{
+ margin-left: 1250px;
+}
+.tv{
+    background: url(), lightgray 50% / cover no-repeat;
+}
+.col-3{
+margin-top: 150px;
+margin-left: 60px;
+}
+.price{
+    color: #515227;
+font-family: Judson;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.cost{
+    color: #000;
+font-family: Judson;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.shipping{
+    color: #F22E13;
+font-family: Judson;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.btn{
+    margin: 0;
+    color: white;
+}
+.options{
+    color: #000;
+font-family: Inria Serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+@media(max-width: 1040px){
+    .row{
+    flex-direction: column;
+  }
+}
+@media(max-width: 844px){
+    .row{
+        flex-direction: column;
+    }
+    .buton{
+     flex-direction: row;
+    }
+}
