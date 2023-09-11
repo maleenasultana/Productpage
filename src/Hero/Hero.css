@@ -24,7 +24,8 @@ margin-top: 117px;
  margin-left: 1250px;
 }
 .tv{
-    background: url(), lightgray 50% / cover no-repeat;
+    height: 400px;
+    width: 600px;
 }
 .col-3{
 margin-top: 150px;
@@ -66,7 +67,23 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-
+@media(max-width:1440px){
+    .tv{
+        width: 80%;
+        height: 70%;
+    }
+    @media(max-width:1040px){
+        .typo{
+            font-size: small;
+            flex-direction: row;
+        }
+    }
+    @media(max-width:844px){
+        .typo{
+            font-size: small;
+        }
+    }
+}
 @media(max-width: 1040px){
     .row{
     flex-direction: column;
