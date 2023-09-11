@@ -9,12 +9,13 @@ function Hero() {
           <img src="../../\images\cart.png" alt="cart" className="cart" />
         </div>
        
-        <div className="col-7">
+        <div className="col-5">
           <h1 className="typo">28 Inch VIZIO Smart TV</h1>
           <div>
             <img src="../../\images\imageTv.png" alt="" className="tv" />
           </div>
         </div>
+        <div className="col-2"></div>
         <div className="col-3">
           <h2>
             28 Inch VIZIO Smart TV - Full HD 1080p
